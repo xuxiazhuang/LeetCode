@@ -25,4 +25,5 @@ class Solution:
         
  solution2:
  
- return s[::-1
+ return s[::-1]
+ #list[<start>:<stop>:<step>]
