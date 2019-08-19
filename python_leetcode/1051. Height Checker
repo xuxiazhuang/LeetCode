@@ -1,0 +1,36 @@
+class Solution:
+    def heightChecker(self, heights: List[int]) -> int:
+        sorted_heights = sorted(heights)
+        num = 0
+        for i in range(len(heights)):
+            if heights[i] != sorted_heights[i]:
+                num += 1
+            return num
+            
+            
+Sorted() sorts any sequence (list, tuple) and always returns a list with the elements in sorted manner, 
+without modifying the original sequence.
+
+x = [2, 8, 1, 4, 6, 3, 7] 
+print(sortd(x))
+1234678
+print(sorted(x,reverse = True))
+8764321
+
+
+solution2:
+class Solution(object):
+    def heightChecker(self, heights):
+        """
+        :type heights: List[int]
+        :rtype: int
+        """
+        sorted_heights = sorted(heights)
+        res = 0
+        
+        for n, h in zip(sorted_heights, heights):
+            if n == h:
+                continue
+            res += 1
+            
+        return res
