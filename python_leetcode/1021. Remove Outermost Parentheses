@@ -1,0 +1,14 @@
+class Solution:
+    def removeOuterParentheses(self, S: str) -> str:
+        paras_to_keep = []
+        currently_open = 0
+        for para in S:
+            if para == "(":
+                if currently_open != 0:
+                    paras_to_keep.append(para)
+                currently_open += 1
+            else:
+                if currently_open != 1:
+                    paras_to_keep.append(para)
+                currently_open -= 1
+        return "".join(paras_to_keep)
