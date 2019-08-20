@@ -9,7 +9,7 @@ practice algorithm from leetcode.
 1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1021.%20Remove%20Outermost%20Parentheses)|
 1051|[Height Checker](https://leetcode.com/problems/height-checker/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1021.%20Remove%20Outermost%20Parentheses)|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1021.%20Remove%20Outermost%20Parentheses)|list|
 1021|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1021.%20Remove%20Outermost%20Parentheses)|----|string|
-
+977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/977.%20Squares%20of%20a%20Sorted%20Array)|  |string|
 
 
 
