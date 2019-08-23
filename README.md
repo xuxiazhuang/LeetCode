@@ -11,6 +11,7 @@ practice algorithm from leetcode.
 1021|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1021.%20Remove%20Outermost%20Parentheses)|----|string|
 977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/977.%20Squares%20of%20a%20Sorted%20Array)|  |list|
 929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_929.py)|  |string|
+1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1002.%20Find%20Common%20Characters)|  |string|
 
 
 
