@@ -13,6 +13,7 @@ practice algorithm from leetcode.
 929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_929.py)|  |string|
 1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1002.%20Find%20Common%20Characters)|  |string|
 557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/557.py)|  |string|
+1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1078.%20Occurrences%20After%20Bigram)|  |string|
 
 
 
