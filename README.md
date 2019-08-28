@@ -16,6 +16,7 @@ practice algorithm from leetcode.
 1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1078.%20Occurrences%20After%20Bigram)|  |string|
 922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_922.py)|  |list|
 908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_908.py)|  | |
+905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_905.py)|  |list|
 
 
 
