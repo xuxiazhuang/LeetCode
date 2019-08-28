@@ -17,6 +17,8 @@ practice algorithm from leetcode.
 922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_922.py)|  |list|
 908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_908.py)|  | |
 905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_905.py)|  |list|
+883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_883.py)|  | |
+
 
 
 
