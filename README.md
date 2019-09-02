@@ -19,6 +19,7 @@ practice algorithm from leetcode.
 905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_905.py)|  |list|
 883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_883.py)|  | |
 876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_876.py)|  |list|
+944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted)|  |list|
 
 
 
