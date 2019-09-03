@@ -21,6 +21,7 @@ practice algorithm from leetcode.
 876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_876.py)|  |list|
 944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted)|  |list|
 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_867.py)|  |list|
+1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|  |list,string|
 
 
 
