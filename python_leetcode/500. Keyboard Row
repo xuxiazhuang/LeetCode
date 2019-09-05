@@ -1,0 +1,13 @@
+Given a List of words, return the words that can be typed using letters of alphabet on only one row's of American keyboard like the image below.
+
+solution:
+class Solution:
+    def findWords(self, words: List[str]) -> List[str]:
+        l1 = ['q','w','e','r','t','y','u','i','o','p','Q','W','E','R','T','Y','U','I','O','P']
+        l2 = ['a','s','d','f','g','h','j','k','l','A','S','D','F','G','H','J','K','L']
+        l3 = ['z','x','c','v','b','n','m','Z','X','C','V','B','N','M']
+        d = []
+        for w in words:
+            if all ([i in l1 for i in w]) or all ([i in l2 for i in w]) or  all ([i in l3 for i in w]):
+                d.append(w)
+        return d;
