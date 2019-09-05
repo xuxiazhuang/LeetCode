@@ -24,6 +24,7 @@ practice algorithm from leetcode.
 1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|  |list,string|
 852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_852.py)|  | |
 893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/893.%20Groups%20of%20Special-Equivalent%20Strings)|  | string|
+500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/500.%20Keyboard%20Row)|  | string,list|
 
 
 
