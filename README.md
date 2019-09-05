@@ -23,7 +23,7 @@ practice algorithm from leetcode.
 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_867.py)|  |list|
 1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)|  |list,string|
 852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_852.py)|  | |
-
+893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/893.%20Groups%20of%20Special-Equivalent%20Strings)|  | string|
 
 
 
