@@ -1,0 +1,31 @@
+Given a date, return the corresponding day of the week for that date.
+
+The input is given as three integers representing the day, month and year respectively.
+
+Return the answer as one of the following values {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"}.
+
+
+solution：
+from datetime import date
+class Solution(object):
+    def dayOfTheWeek(self, day, month, year):
+        return date(year, month, day).strftime("%A")
+        
+The strftime() method returns a string representing date and time using date, time or datetime object。
+
+
+from datetime import datetime
+now = datetime.now() # current date and time
+year = now.strftime("%Y")
+print("year:", year)
+month = now.strftime("%m")
+print("month:", month)
+day = now.strftime("%d")
+print("day:", day)
+
+
+
+
+
+
+
