@@ -27,7 +27,7 @@ practice algorithm from leetcode.
 500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/500.%20Keyboard%20Row)|  | string,list|
 476|[Number Complement](https://leetcode.com/problems/number-complement/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/476.%20Number%20Complement)|  | |
 1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1185.%20Day%20of%20the%20Week)|  | datetime|
-
+1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1122.%20Relative%20Sort%20Array)|  | datetime|
 
 
 
