@@ -30,7 +30,7 @@ practice algorithm from leetcode.
 1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1122.%20Relative%20Sort%20Array)|  |list|
 766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/766.%20Toeplitz%20Matrix)|  |matrix|
 832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_832.python)|  |  |
-
+1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_832.python)|  | list |
 
 
 
