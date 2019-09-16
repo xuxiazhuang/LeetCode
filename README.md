@@ -29,7 +29,7 @@ practice algorithm from leetcode.
 1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1185.%20Day%20of%20the%20Week)|  | datetime|
 1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1122.%20Relative%20Sort%20Array)|  |list|
 766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/766.%20Toeplitz%20Matrix)|  |matrix|
-876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_876.py)|  |  |
+832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_832.python)|  |  |
 
 
 
