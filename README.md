@@ -31,6 +31,7 @@ practice algorithm from leetcode.
 766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/766.%20Toeplitz%20Matrix)|  |matrix|
 832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_832.python)|  |  |
 1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1046.%20Last%20Stone%20Weight)|  | list |
+821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_821.py)|  | list |
 
 
 
