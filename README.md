@@ -33,5 +33,6 @@ practice algorithm from leetcode.
 1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/1046.%20Last%20Stone%20Weight)|  | list |
 821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_821.py)|  | list |
 811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_811.py%20counter%20.%20%26%20format)|  |  |
+804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_804.py)|  |  |
 
 
