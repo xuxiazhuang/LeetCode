@@ -34,5 +34,5 @@ practice algorithm from leetcode.
 821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_821.py)|  | list |
 811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_811.py%20counter%20.%20%26%20format)|  |  |
 804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_804.py)|  |  |
-
+771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_771.py)|  |  |
 
