@@ -40,5 +40,6 @@ practice algorithm from leetcode.
 657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_657.py)|  | string |
 617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_617.py)|  | Binary Tree|
 561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_561.py)|  |  |
+461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_461.py)|  |  |
 
 
