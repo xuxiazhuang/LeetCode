@@ -42,6 +42,6 @@ practice algorithm from leetcode.
 561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_561.py)|  |  |
 461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/_461.py)|  |  |
 977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/977.%20Squares%20of%20a%20Sorted%20Array)|  |  |
-961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/961.%20N-Repeated%20Element%20in%20Size%202N%20Array)| |  944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted)|list |
+961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|Easy|[python](https://github.com/xuxiazhuang/LeetCode/blob/master/python_leetcode/961.%20N-Repeated%20Element%20in%20Size%202N%20Array)| |  
 
 
